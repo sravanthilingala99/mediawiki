@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mediawiki-app
+  labels:
+    app: mediawiki-app
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: mediawiki-app
+  template:
+    metadata:
+      labels:
+        app: mediawiki-app
+    spec:
+      containers:
+      - name: mediawiki-app
+        image: mediawiki1
+        ports:
+        - containerPort: 80
