@@ -19,3 +19,21 @@ kops validate --help
 kops validate --state=s33://media123 --name=media.k8s.local
 kops delete cluster --name=media.k8s.local --yes
 kops delete cluster --state=s3://media123 --name=media.k8s.local --yes
+ls
+history
+git config --global user.name "sravanthilingala"
+git config --global user.email "sravanthilingala99@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.name "sravanthilingala"
