@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1683627363,,"wq"
+|2,0,1683632459,,"wq"
 :wwq
 |2,0,1683627342,,"wwq"
 
@@ -27,24 +27,52 @@
 # Registers:
 
 # File marks:
-'0  12  16  ~/service.yml
-|4,48,12,16,1683627363,"~/service.yml"
-'1  21  26  ~/deployment.yml
-|4,49,21,26,1683627345,"~/deployment.yml"
-'2  21  26  ~/deployment.yml
-|4,50,21,26,1683627247,"~/deployment.yml"
-'3  1  321  ~/deployment.yml
-|4,51,1,321,1683626020,"~/deployment.yml"
-'4  20  15  ~/deployment.yml
-|4,52,20,15,1683626020,"~/deployment.yml"
+'0  34  0  ~/Dockerfile
+|4,48,34,0,1683632459,"~/Dockerfile"
+'1  22  2  ~/mediawiki.sql
+|4,49,22,2,1683632419,"~/mediawiki.sql"
+'2  12  16  ~/service.yml
+|4,50,12,16,1683627363,"~/service.yml"
+'3  21  26  ~/deployment.yml
+|4,51,21,26,1683627345,"~/deployment.yml"
+'4  21  26  ~/deployment.yml
+|4,52,21,26,1683627247,"~/deployment.yml"
 '5  1  321  ~/deployment.yml
 |4,53,1,321,1683626020,"~/deployment.yml"
 '6  20  15  ~/deployment.yml
 |4,54,20,15,1683626020,"~/deployment.yml"
+'7  1  321  ~/deployment.yml
+|4,55,1,321,1683626020,"~/deployment.yml"
+'8  20  15  ~/deployment.yml
+|4,56,20,15,1683626020,"~/deployment.yml"
 
 # Jumplist (newest first):
+-'  34  0  ~/Dockerfile
+|4,39,34,0,1683632459,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1683632432,"~/Dockerfile"
+-'  22  2  ~/mediawiki.sql
+|4,39,22,2,1683632419,"~/mediawiki.sql"
+-'  22  2  ~/mediawiki.sql
+|4,39,22,2,1683632419,"~/mediawiki.sql"
+-'  1  0  ~/mediawiki.sql
+|4,39,1,0,1683632369,"~/mediawiki.sql"
+-'  1  0  ~/mediawiki.sql
+|4,39,1,0,1683632369,"~/mediawiki.sql"
 -'  12  16  ~/service.yml
 |4,39,12,16,1683627363,"~/service.yml"
+-'  12  16  ~/service.yml
+|4,39,12,16,1683627363,"~/service.yml"
+-'  12  16  ~/service.yml
+|4,39,12,16,1683627363,"~/service.yml"
+-'  12  16  ~/service.yml
+|4,39,12,16,1683627363,"~/service.yml"
+-'  1  0  ~/service.yml
+|4,39,1,0,1683627353,"~/service.yml"
+-'  1  0  ~/service.yml
+|4,39,1,0,1683627353,"~/service.yml"
+-'  1  0  ~/service.yml
+|4,39,1,0,1683627353,"~/service.yml"
 -'  1  0  ~/service.yml
 |4,39,1,0,1683627353,"~/service.yml"
 -'  21  26  ~/deployment.yml
@@ -52,6 +80,30 @@
 -'  21  26  ~/deployment.yml
 |4,39,21,26,1683627345,"~/deployment.yml"
 -'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627345,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
+|4,39,21,26,1683627247,"~/deployment.yml"
+-'  21  26  ~/deployment.yml
 |4,39,21,26,1683627247,"~/deployment.yml"
 -'  21  26  ~/deployment.yml
 |4,39,21,26,1683627247,"~/deployment.yml"
@@ -63,6 +115,30 @@
 |4,39,1,321,1683627143,"~/deployment.yml"
 -'  1  321  ~/deployment.yml
 |4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
+-'  1  321  ~/deployment.yml
+|4,39,1,321,1683627143,"~/deployment.yml"
 -'  20  15  ~/deployment.yml
 |4,39,20,15,1683626020,"~/deployment.yml"
 -'  20  15  ~/deployment.yml
@@ -71,12 +147,63 @@
 |4,39,20,15,1683626020,"~/deployment.yml"
 -'  20  15  ~/deployment.yml
 |4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  20  15  ~/deployment.yml
+|4,39,20,15,1683626020,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
+-'  1  0  ~/deployment.yml
+|4,39,1,0,1683626008,"~/deployment.yml"
 -'  1  0  ~/deployment.yml
 |4,39,1,0,1683626008,"~/deployment.yml"
 -'  1  0  ~/deployment.yml
 |4,39,1,0,1683626008,"~/deployment.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1683632458	0
+	"	34	0
+	^	34	0
+	.	33	48
+	+	33	48
+
+> ~/mediawiki.sql
+	*	1683632418	0
+	"	22	2
+	^	22	3
+	.	22	2
+	+	24	0
+	+	22	2
 
 > ~/service.yml
 	*	1683627363	0
